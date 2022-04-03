@@ -1,22 +1,18 @@
-## Howdy! I'am Alexandr 👋
----
-
+## Hi there! I'm Alexandr ✌️
 
 - 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)
+- 🥇 My 2022 goals: complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
 
 
 ### You can contact with me:
-[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg][Linkedin]
-href="mailto:alexandersv686@gmail.com"
-### Languages and Tools:
+[](gmail)
+[](telegram)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px"/>](linkedin)
+[](instagram)
+---
 
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -40,16 +36,14 @@ href="mailto:alexandersv686@gmail.com"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 ---
 
 
 
 ![simathone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
 
-[telegram]:
+[telegram]: https://t.me/Alexandr_Sviridov
 [instagram]: https://www.instagram.com/simatheone/
 [linkedin]: https://linkedin.com/in/sviridov-ak-dev/
+[gmail]: mailto:alexandersv686@gmail.com

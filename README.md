@@ -4,13 +4,13 @@
 - 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)
 - 🥇 My 2022 goals: complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
 
-
+<!--
 ### You can contact with me:
 [](gmail)
 [](telegram)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px"/>](linkedin)
 [](instagram)
-
+-->
 ---
 
 ### Languages and Tools:

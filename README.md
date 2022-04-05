@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: My personal blog, GiveMeFakeData API (with [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)
-- 🥇 My 2022 goals: complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
+- 🥇 My 2022 goals: Complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
 
 <!--
 ### You can contact with me:

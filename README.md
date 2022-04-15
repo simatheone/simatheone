@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there! I'm Alexandr 
 
-- 🔭 I’m currently working on: My personal blog, GiveMeFakeData API (with [Igor Shevchenko](https://github.com/bnzone))
+- 🔭 I’m currently working on: My personal blog, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)
 - 🥇 My 2022 goals: Complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
 

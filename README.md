@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there! I'm Alexandr 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there! I'm Alexander 
 
 - 🔭 I’m currently working on: My personal blog, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)

@@ -1,16 +1,34 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there! I'm Alexander 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
 - 🔭 I’m currently working on: ImageRotator Descktop app, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex.Practicum](https://practicum.yandex.ru/)
-- 🥇 My 2022 goals: Complete the Yandexю.Practicum course✔️; &nbsp;Find my first job as a Python backend developer💻
+- 🥇 My 2022 goals: Complete the Yandex.Practicum course✔️; &nbsp;Find my first job as a Python backend developer💻
 
-<!--
-### You can contact with me:
-[](gmail)
-[](telegram)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px"/>](linkedin)
-[](instagram)
--->
+
+### Contact me:
+
+[<img alt="e-mail" 
+      width="28px"
+      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+      />](mailto:alexandersv686@gmail.com)
+[<img alt="telegram"
+      width="26px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
+      style="text-decoration: none;"
+      />](https://t.me/alexandr_sviridov)
+[<img alt="WhatsApp"
+      width="28px"
+      src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"
+      />](https://wa.me/79147906479)
+[<img alt="LinkedIn"
+      width="25px"
+      src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" 
+      />](https://www.linkedin.com/in/sviridov-ak-dev/)
+[<img alt="Vkontakte"
+      width="26px"
+      src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
+      />](https://vk.com/id100242071)
+
 ---
 
 ### Languages and Tools:
@@ -31,7 +49,3 @@
 
 ![simathone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
 
-[telegram]: https://t.me/Alexandr_Sviridov
-[instagram]: https://www.instagram.com/simatheone/
-[linkedin]: https://linkedin.com/in/sviridov-ak-dev/
-[gmail]: mailto:alexandersv686@gmail.com

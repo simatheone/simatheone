@@ -45,7 +45,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ---
-<br />
+
+<!--
+### Completed projects:
+
+- [Foodgram](https://github.com/simatheone/Foodgram-api-project) 
+- [YamDB API](https://github.com/simatheone/Yamdb_API_group_project) 
+- [Yatube Social Network](https://github.com/simatheone/Yatube_Social_Network) 
+- [Yatube API](https://github.com/simatheone/api_final_yatube) 
+- [Homework stats Telegram Bot](https://github.com/simatheone/telegram_bot_homework_stats) 
+- [Python docs parser](https://github.com/simatheone/bs4_parser_pep) 
+- [Cash and calories calculator](https://github.com/simatheone/Cash_and_calories_calculator)
+-->
 
 ![simathone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
 

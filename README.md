@@ -1,8 +1,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi there! I'm Alexander 
 
-- 🔭 I’m currently working on: My personal blog, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
-- 📖 I’m currently studing at [Yandex Practicum Bootcamp](https://practicum.yandex.ru/)
-- 🥇 My 2022 goals: Complete the Yandex Bootcamp✔️; &nbsp;Find my first job as a developer💻
+- 🔭 I’m currently working on: ImageRotator Descktop app, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
+- 📖 I’m currently studing at [Yandex.Practicum](https://practicum.yandex.ru/)
+- 🥇 My 2022 goals: Complete the Yandexю.Practicum course✔️; &nbsp;Find my first job as a developer💻
 
 <!--
 ### You can contact with me:

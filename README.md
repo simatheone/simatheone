@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: ImageRotator Descktop app, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex.Practicum](https://practicum.yandex.ru/)
-- 🥇 My 2022 goals: Complete the Yandexю.Practicum course✔️; &nbsp;Find my first job as a developer💻
+- 🥇 My 2022 goals: Complete the Yandexю.Practicum course✔️; &nbsp;Find my first job as a Python backend developer💻
 
 <!--
 ### You can contact with me:

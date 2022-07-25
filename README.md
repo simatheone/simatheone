@@ -24,10 +24,6 @@
       width="25px"
       src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" 
       />](https://www.linkedin.com/in/sviridov-ak-dev/)
-[<img alt="Vkontakte"
-      width="26px"
-      src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" 
-      />](https://vk.com/id100242071)
 
 ---
 

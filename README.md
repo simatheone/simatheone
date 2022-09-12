@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
-- 🔭 I’m currently working on: ImageRotator Desktop app, GiveMeFakeData API (colab [Igor Shevchenko](https://github.com/bnzone))
+- 🔭 I’m currently working on: Bionic-Reader API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 I’m currently studing at [Yandex.Practicum](https://practicum.yandex.ru/)
 - 🥇 My 2022 goals: Complete the Yandex.Practicum course✔️; &nbsp;Find my first job as a Python backend developer💻
 

@@ -15,7 +15,7 @@
       width="26px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
       style="text-decoration: none;"
-      />](https://t.me/alexandr_sviridov)
+      />](https://t.me/simatheone)
 [<img alt="WhatsApp"
       width="28px"
       src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"

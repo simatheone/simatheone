@@ -1,8 +1,9 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
 - 🔭 I’m currently working on: Bionic-Reader API (colab [Igor Shevchenko](https://github.com/bnzone)), [Balapanlar](https://github.com/Studio-Yandex-Practicum/balapanlar) 
-- 📖 I’m currently studing at [Yandex.Practicum](https://practicum.yandex.ru/)
-- 🥇 My 2022 goals: Complete the Yandex.Practicum course✔️; &nbsp;Find my first job as a Python backend developer💻
+- 📖 Graduated from [Yandex.Practicum](https://practicum.yandex.ru/)
+- :mag: Looking for opportunities
+- 🥇 My 2023 goals: improve my skills in Python, algorithms and data structures
 
 
 ### Contact me:
@@ -25,7 +26,6 @@
       src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" 
       />](https://www.linkedin.com/in/sviridov-ak-dev/)
 
----
 
 ### Languages and Tools:
 

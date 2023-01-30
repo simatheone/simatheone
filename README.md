@@ -7,10 +7,14 @@
 
 
 ### Contact me:
+<!-- [<img alt="e-mail" 
+      width="28px"
+      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+      />](mailto:alexandersv686@gmail.com) -->
 
 [<img alt="e-mail" 
       width="28px"
-      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/memo-2.gif"
+      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"
       />](mailto:alexandersv686@gmail.com)
 [<img alt="telegram"
       width="26px"

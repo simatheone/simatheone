@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
-- 🔭 I’m currently working on: Bionic-Reader API (colab [Igor Shevchenko](https://github.com/bnzone)), [Balapanlar](https://github.com/Studio-Yandex-Practicum/balapanlar) 
+- 🔭 I’m currently working on: Bionic-Reader API (colab [Igor Shevchenko](https://github.com/bnzone)), [Family Moments](https://github.com/Family-moments/) 
 - 📖 Graduated from [Yandex.Practicum](https://practicum.yandex.ru/)
 - :mag: Looking for opportunities
 - 🥇 My 2023 goals: improve my skills in Python, algorithms and data structures

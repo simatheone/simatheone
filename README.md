@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
-- 🔭 I’m currently working on: Bionic-Reader API (colab [Igor Shevchenko](https://github.com/bnzone)), [Family Moments](https://github.com/Family-moments/) 
+- 🔭 I’m currently working on: OneLift API (colab [Igor Shevchenko](https://github.com/bnzone)), [Family Moments](https://github.com/Family-moments/) 
 - 📖 Graduated from [Yandex.Practicum](https://practicum.yandex.ru/)
 - :mag: Looking for opportunities
 - 🥇 My 2023 goals: improve my skills in Python, algorithms and data structures
@@ -63,5 +63,5 @@
 - [Cash and calories calculator](https://github.com/simatheone/Cash_and_calories_calculator)
 -->
 
-![simathone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
+![simatheone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
 

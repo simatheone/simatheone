@@ -63,5 +63,5 @@
 - [Cash and calories calculator](https://github.com/simatheone/Cash_and_calories_calculator)
 -->
 
-![simatheone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&hide=issues,contribs)
+![simatheone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&count_private=true)
 

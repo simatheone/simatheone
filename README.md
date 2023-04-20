@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Hi there! I'm Alexander 
 
-- 🔭 I’m currently working on: OneLift API (colab [Igor Shevchenko](https://github.com/bnzone)), [Family Moments](https://github.com/Family-moments/) 
+- 🔭 I’m currently working on: OneLift API (colab [Igor Shevchenko](https://github.com/bnzone))
 - 📖 Graduated from [Yandex.Practicum](https://practicum.yandex.ru/)
 - :mag: Looking for opportunities
 - 🥇 My 2023 goals: improve my skills in Python, algorithms and data structures
@@ -49,19 +49,15 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---  
-      
- 
-<!--
-### Completed projects:
 
-- [Foodgram](https://github.com/simatheone/Foodgram-api-project) 
-- [YamDB API](https://github.com/simatheone/Yamdb_API_group_project) 
-- [Yatube Social Network](https://github.com/simatheone/Yatube_Social_Network) 
-- [Yatube API](https://github.com/simatheone/api_final_yatube) 
-- [Homework stats Telegram Bot](https://github.com/simatheone/telegram_bot_homework_stats) 
-- [Python docs parser](https://github.com/simatheone/bs4_parser_pep) 
-- [Cash and calories calculator](https://github.com/simatheone/Cash_and_calories_calculator)
--->
+<details>
+    <summary><h4>Solved take-home projects:</h4></summary>
+    
+- [Product parser](https://github.com/simatheone/product_parser_test_case)
+- [Extra Problems](https://github.com/simatheone/test_case_extra_problems)
+- [Console Teapot](https://github.com/simatheone/teapot_test_case)
+- [Moscow Arch](https://github.com/simatheone/moscow_arch_test_case)
+</details>
 
 ![simatheone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&count_private=true)
 

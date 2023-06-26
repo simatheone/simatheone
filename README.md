@@ -58,6 +58,6 @@
 - [Console Teapot](https://github.com/simatheone/teapot_test_case)
 - [Moscow Arch](https://github.com/simatheone/moscow_arch_test_case)
 </details>
-
+<!--
 ![simatheone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simatheone&&show_icons=true&title_color=e3dcdc&icon_color=bb2acf&text_color=e3dcdc&bg_color=DEG,0f0c29,302b63,24243e&hide_border=true&count_private=true)
-
+-->
